@@ -25,6 +25,8 @@ test {
 }
 
 dependencies {
+    implementation 'org.eclipse.jetty:jetty-servlet:9.4.19.v20190610'
+    
     // Use JUnit test framework
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.4.2'
     testImplementation 'org.junit.jupiter:junit-jupiter-engine:5.4.2'
