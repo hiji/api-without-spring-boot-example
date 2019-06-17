@@ -1,1 +1,1 @@
-# spring-json-api-example
+# api-without-spring-boot-example
