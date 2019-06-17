@@ -1,1 +1,1 @@
-# api-without-spring-boot-example
+# embedded-jetty-example
