@@ -1,1 +1,1 @@
-# spring-sandbox
+# spring-json-api-example
